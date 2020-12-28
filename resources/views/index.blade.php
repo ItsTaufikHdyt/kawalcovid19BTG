@@ -6,7 +6,6 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>Kawal Covid 19</title>
-        <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="{{asset('img/corona.png')}}" />
         <!-- Font Awesome icons (free version)-->
         <script src="{{asset('https://use.fontawesome.com/releases/v5.15.1/js/all.js')}}" crossorigin="anonymous"></script>
