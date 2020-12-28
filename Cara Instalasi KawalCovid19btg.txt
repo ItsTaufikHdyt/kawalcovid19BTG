@@ -1,0 +1,15 @@
+Cara Instalasi KawalCovid19btg
+website ini menggunakan php 7, pastikan menggunakan php 7.2
+-import database dengan nama kawalcovid di folder db
+-edit file .env 
+DB_DATABASE= isi dengan nama database
+DB_USERNAME= isi dengan username database
+DB_PASSWORD= isi dengan password database
+-jalankan xampp atau sejenisnya buka url localhost/namafolderaplikasi/public atau jika menggunakan command prompt gunakan php artisan serve kemudian buka localhost:8000
+-lakukan storage link dengan menjalankan xampp atau sejenisnya
+kemudian arahkan ke url localhost/public/linkstorage atau jika menggunakan
+command prompt ketikan perintah php artisan storage:link
+
+
+email : admin@kawalcovid.com
+password : admin123
